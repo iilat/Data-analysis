@@ -79,8 +79,8 @@ app.layout = html.Div(children=[
                                         'align': 'center'
                                         },
                               cells = {'values': data.T.values})],
-            'layout': go.Layout(xaxis = {'title': 'Страна'},
-                                yaxis = {'title': 'Макс. % городского населения'})
+            'layout': go.Layout(xaxis = {'title': 'Объект'},
+                                yaxis = {'title': 'Сумма'})
          },
         id = 'data'
     ), 
