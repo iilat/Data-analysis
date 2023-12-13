@@ -8,6 +8,7 @@
 
 ## Используемые библиотеки
 *pandas*
-*scipy*
+*apimoex*
 *plotly*
 *matplotlib*
+*seaborn*
